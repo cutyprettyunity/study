@@ -1,1 +1,1 @@
-- 🌱 큐티-프리티-유니티
+- 🌱 Cuty-Pretty-Unity Repository
